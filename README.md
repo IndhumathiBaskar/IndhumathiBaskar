@@ -1,4 +1,4 @@
-# Hi there, I'm [Indhumathi Baskar]! 👋
+# Hi there, I'm Indhumathi Baskar! 👋
 
 Welcome to my GitHub profile! I'm a passionate .NET developer with a love for creating robust and efficient applications. Below you'll find more information about me, my skills, and my projects.
 
