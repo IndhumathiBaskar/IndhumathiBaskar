@@ -42,21 +42,12 @@ Welcome to my GitHub profile! I'm a passionate .NET developer with a love for cr
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Projects
-
-### [Project 1 Name](https://github.com/your-github-username/project-1-repo)
-
-A brief description of what this project is about and what technologies it uses.
-
-### [Project 2 Name](https://github.com/your-github-username/project-2-repo)
-
-A brief description of what this project is about and what technologies it uses.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IndhumathiBaskar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndhumathiBaskar&layout=compact&theme=radical)
 
 ## Connect with Me
 
