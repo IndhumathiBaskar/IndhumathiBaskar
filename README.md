@@ -63,12 +63,6 @@ An internal tool that uses the GitHub API to flag open pull requests at risk of 
 A secure, modular ASP.NET Core Web API backend for managing trips, expenses, documents, and journals, with JWT auth and role-based access.
 🔗 [github.com/IndhumathiBaskar/TripExpenseApi](https://github.com/IndhumathiBaskar/TripExpenseApi)
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IndhumathiBaskar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndhumathiBaskar&layout=compact&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indhumathi-baskar)
